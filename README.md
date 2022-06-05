@@ -1,1 +1,1 @@
-# TODO app with PostgreSQL and Express
+# TODO app with PostgreSQL, Express, React and Bootstrap
